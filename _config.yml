@@ -12,7 +12,7 @@ title                    : "Dion Mann / Personal Website"
 title_separator          : "-"
 name                     : &name "Dion Mann"
 description              : &description "Here is a personal description"
-url                      : https://SireDuck.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://dionmann.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "SireDuck/SireDuck.github.io"
 
