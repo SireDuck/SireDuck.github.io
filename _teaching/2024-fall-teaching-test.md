@@ -2,7 +2,7 @@
 title: "Test Teaching"
 collection: teaching
 type: "Hello"
-permalink: /teaching/2015-spring-teaching-1
+permalink: /teaching/2024-fall-teaching-test
 venue: "University of Connecticut, Department"
 date: 2015-01-01
 location: "Storrs, Country"
