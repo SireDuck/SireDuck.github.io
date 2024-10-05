@@ -8,4 +8,4 @@ These notes are from an REU at CU Boulder in Summer 2021. We reviewed Poisson st
 
 Advisor: Dr. Yining Zhang
 
-[Download: REU Notes](http://academicpages.github.io/files/REU.pdf)
+[Download: REU Notes](http://sireduck.github.io/files/REU.pdf)
